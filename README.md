@@ -8,10 +8,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/priy0767/LeetCode-Solution/tree/master/0110-balanced-binary-tree) |
 | [0897-increasing-order-search-tree](https://github.com/priy0767/LeetCode-Solution/tree/master/0897-increasing-order-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/priy0767/LeetCode-Solution/tree/master/0110-balanced-binary-tree) |
 | [0897-increasing-order-search-tree](https://github.com/priy0767/LeetCode-Solution/tree/master/0897-increasing-order-search-tree) |
 ## Binary Search Tree
 |  |
@@ -20,5 +22,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/priy0767/LeetCode-Solution/tree/master/0110-balanced-binary-tree) |
 | [0897-increasing-order-search-tree](https://github.com/priy0767/LeetCode-Solution/tree/master/0897-increasing-order-search-tree) |
 <!---LeetCode Topics End-->
