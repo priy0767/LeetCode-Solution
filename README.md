@@ -10,12 +10,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/priy0767/LeetCode-Solution/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/priy0767/LeetCode-Solution/tree/master/0113-path-sum-ii) |
+| [0437-path-sum-iii](https://github.com/priy0767/LeetCode-Solution/tree/master/0437-path-sum-iii) |
 | [0897-increasing-order-search-tree](https://github.com/priy0767/LeetCode-Solution/tree/master/0897-increasing-order-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/priy0767/LeetCode-Solution/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/priy0767/LeetCode-Solution/tree/master/0113-path-sum-ii) |
+| [0437-path-sum-iii](https://github.com/priy0767/LeetCode-Solution/tree/master/0437-path-sum-iii) |
 | [0547-number-of-provinces](https://github.com/priy0767/LeetCode-Solution/tree/master/0547-number-of-provinces) |
 | [0897-increasing-order-search-tree](https://github.com/priy0767/LeetCode-Solution/tree/master/0897-increasing-order-search-tree) |
 ## Binary Search Tree
@@ -27,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/priy0767/LeetCode-Solution/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/priy0767/LeetCode-Solution/tree/master/0113-path-sum-ii) |
+| [0437-path-sum-iii](https://github.com/priy0767/LeetCode-Solution/tree/master/0437-path-sum-iii) |
 | [0897-increasing-order-search-tree](https://github.com/priy0767/LeetCode-Solution/tree/master/0897-increasing-order-search-tree) |
 ## Breadth-First Search
 |  |
