@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/priy0767/LeetCode-Solution/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/priy0767/LeetCode-Solution/tree/master/0113-path-sum-ii) |
+| [0200-number-of-islands](https://github.com/priy0767/LeetCode-Solution/tree/master/0200-number-of-islands) |
 | [0437-path-sum-iii](https://github.com/priy0767/LeetCode-Solution/tree/master/0437-path-sum-iii) |
 | [0547-number-of-provinces](https://github.com/priy0767/LeetCode-Solution/tree/master/0547-number-of-provinces) |
 | [0897-increasing-order-search-tree](https://github.com/priy0767/LeetCode-Solution/tree/master/0897-increasing-order-search-tree) |
@@ -34,10 +35,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/priy0767/LeetCode-Solution/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/priy0767/LeetCode-Solution/tree/master/0547-number-of-provinces) |
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/priy0767/LeetCode-Solution/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/priy0767/LeetCode-Solution/tree/master/0547-number-of-provinces) |
 ## Graph Theory
 |  |
@@ -51,8 +54,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/priy0767/LeetCode-Solution/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/priy0767/LeetCode-Solution/tree/master/0200-number-of-islands) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/priy0767/LeetCode-Solution/tree/master/0198-house-robber) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/priy0767/LeetCode-Solution/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
