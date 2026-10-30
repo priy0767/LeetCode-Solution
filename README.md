@@ -55,12 +55,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0198-house-robber](https://github.com/priy0767/LeetCode-Solution/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/priy0767/LeetCode-Solution/tree/master/0200-number-of-islands) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/priy0767/LeetCode-Solution/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/priy0767/LeetCode-Solution/tree/master/0198-house-robber) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/priy0767/LeetCode-Solution/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Matrix
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/priy0767/LeetCode-Solution/tree/master/0200-number-of-islands) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/priy0767/LeetCode-Solution/tree/master/3882-minimum-xor-path-in-a-grid) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/priy0767/LeetCode-Solution/tree/master/3882-minimum-xor-path-in-a-grid) |
 <!---LeetCode Topics End-->
